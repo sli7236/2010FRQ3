@@ -1,6 +1,6 @@
 package com.company;
 
-public class Trail extends Runner {
+public class Trail {
 
     private int[] markers = {100,150,105,120,90,80,51,75,75,70,80,90,100};
 
